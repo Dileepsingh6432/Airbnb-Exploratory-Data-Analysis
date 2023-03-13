@@ -8,17 +8,17 @@ Airbnb stands for 'Air Bed and Breakfast', and it is an online service that lets
 
 With the given data, our first step is to identify all the variables and find out the relationship between them. Our first sub-problem is that first focus on its physical features and its facilities and find out the relationship between top listings with prices. We mainly focused on the listing's room type, the property type, price, host, location, and reviews.
 
-id: all properties have a unique id by which we tried to find unique properties.
+**id**: all properties have a unique id by which we tried to find unique properties.
 
-Host_id: all the hosts have a unique id by which we tried to find unique number of hosts, their maximum number of listings, most popular host and their charges.
+**Host_id**: all the hosts have a unique id by which we tried to find unique number of hosts, their maximum number of listings, most popular host and their charges.
 
-Neighbourhood_group & neighborhood: by this, we tried to find out which neighborhood group has the maximum number of properties, which one is the most popular, which one is the most expensive place to live.
+**Neighbourhood_group & neighborhood**: by this, we tried to find out which neighborhood group has the maximum number of properties, which one is the most popular, which one is the most expensive place to live.
 
-Room_type: In the given data, there are three types of rooms are available that is private, shared, and entire home and we tried to find out which types of rooms are the most popular and most expensive.
+**Room_type**: In the given data, there are three types of rooms are available that is private, shared, and entire home and we tried to find out which types of rooms are the most popular and most expensive.
 
-Number_of_reviews: by this, we tried to find out which property has the best service and which host provides the best service.
+**Number_of_reviews**: by this, we tried to find out which property has the best service and which host provides the best service.
 
-Availability_365: by this, we tried to find the availability of the property.
+**Availability_365**: by this, we tried to find the availability of the property.
 
 
 
